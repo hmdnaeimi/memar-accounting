@@ -1,0 +1,21 @@
+# Composer
+/docs/
+/vendor/
+composer.phar
+/invoice-template/
+/.clinerules/
+# نرم‌افزارها / موقت
+*.log
+*.tmp
+_*.php
+_*.py
+_*.pdf
+
+# سیستم‌عامل
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# حساسترین‌ها (اگر ساخته شوند)
+.env
+*.sql.local
